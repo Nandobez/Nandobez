@@ -42,7 +42,7 @@ Sou autodidata, curioso e guiado por dados. Atuo com análise descritiva, visual
 <img align="left" alt="Angular" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="LaTeX" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
+<img align="left" alt="LaTeX" width="30px" src="https://plugins.jetbrains.com/files/18580/161514/icon/default.svg"/>
 <img align="left" alt="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="left" alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
@@ -71,7 +71,7 @@ Sou autodidata, curioso e guiado por dados. Atuo com análise descritiva, visual
 ### 🌐 Links
 
 - 💼 GitHub: [github.com/Nandobez](https://github.com/Nandobez)  
-- 📧 Email: fernando.acad13@gmail.com  
+- 📧 Email: fernando.devsolutions13@gmail.com  
 
 ---
 
