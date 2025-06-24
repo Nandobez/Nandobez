@@ -66,7 +66,6 @@ I’m self-taught, curious, and data-driven. I work with descriptive analysis, d
 <img align="left" alt="Spring Boot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 <img align="left" alt="R" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
 <img align="left" alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
-<img align="left" alt="Google Colab" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/>
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Maven" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"/>
