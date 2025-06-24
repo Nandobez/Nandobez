@@ -198,7 +198,12 @@ I’m self-taught, curious, and data-driven. I work with descriptive analysis, d
 
 ### 📈 Estatísticas | GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandobez&show_icons=true&theme=gruvbox)
+<br/>
+
+<a href="https://github.com/Ianalas" title="Estatísticas Nandobez">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nandobez&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandobez&layout=compact&langs_count=16&theme=dark&show_icons=true" />
+</a>
 
 ---
 
