@@ -74,7 +74,7 @@ I'm self-taught, curious, and data-driven. I work with descriptive analysis, dat
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="RabbitMQ" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"/>
 <img align="left" alt="Maven" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"/>
-<img align="left" alt="Gradle" width="30px" src="https://static-00.iconduck.com/assets.00/gradle-icon-2048x1504-ro73tce1.png"/>
+<img align="left" alt="Gradle" width="30px" src="https://github.com/user-attachments/assets/309ebd54-5d3f-442e-8739-85be65adfebb"/>
 <br /><br />
 
 #### 📊 Bibliotecas de Dados | Data Libraries
@@ -133,7 +133,7 @@ I'm self-taught, curious, and data-driven. I work with descriptive analysis, dat
 <img align="left" alt="OAuth2" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg"/>
 <img align="left" alt="SSH" width="30px" src="https://cdn-icons-png.flaticon.com/512/5136/5136897.png"/>
 <img align="left" alt="AWS" width="30px" src="https://assets.dio.me/wba01Z0cytG04zMjQkEyXJ8x5tSXupBHthd1knhQbJE/f:webp/q:80/L2FydGljbGVzL2NvdmVyLzQ0NzZlZjIxLWI1MTEtNGQ0MC1iN2NjLTFlMTM4Mzc2MDYwMC5wbmc"/>
-<img align="left" alt="Kali Linux" width="30px" src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-linux-icon-2048x2005-dki611fk.png"/>
+<img align="left" alt="Kali Linux" width="30px" src="https://github.com/user-attachments/assets/aabd4e3a-3341-4357-9d96-6c3cf5b528e7"/>
 <img align="left" alt="GitHub Actions" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="Swagger" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"/>
 <br /><br />
