@@ -16,10 +16,10 @@ I'm passionate about technology, art and mathematics, data science, and solution
 
 ### 🎓 Formação Acadêmica | Education
 
-📚 **Ciência da Computação (4º Semestre)**  
+📚 **Ciência da Computação (5º Semestre)**  
 Universidade de Fortaleza - UNIFOR · Fortaleza - 2025  
 
-📚 **Computer Science (4th Semester)**  
+📚 **Computer Science (5th Semester)**  
 University of Fortaleza - UNIFOR · Brazil - 2025
 
 - Experiência com Python, Java, Spring Boot, Angular  
