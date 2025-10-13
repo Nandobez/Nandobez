@@ -5,48 +5,50 @@
 
 # 🧠 Fernando Bezerra (Nandobez)
 
-**`Cientista de Dados | Cientista da Computação | Criador Técnico`**  
+**`Cientista de Dados | Cientista da Computação | Criador Técnico`**
 **`Data Scientist | Computer Scientist | Technical Creator`**
 
 Sou um apaixonado por tecnologia, arte e matemática, ciência de dados e desenvolvimento de soluções. Desde o ensino médio exploro programação, tanto em hardware quanto software. Meu objetivo é transformar dados em conhecimento útil, aplicando princípios sólidos de programação, estatística e design técnico para resolver problemas reais.
 
-I'm passionate about technology, art and mathematics, data science, and solution development. Since high school, I’ve explored programming in both hardware and software. My goal is to transform data into useful knowledge by applying solid principles of programming, statistics, and technical design to solve real-world problems.
+I'm passionate about technology, art and mathematics, data science, and solution development. Since high school, I've explored programming in both hardware and software. My goal is to transform data into useful knowledge by applying solid principles of programming, statistics, and technical design to solve real-world problems.
 
 ---
 
 ### 🎓 Formação Acadêmica | Education
 
-📚 **Ciência da Computação (5º Semestre)**  
-Universidade de Fortaleza - UNIFOR · Fortaleza - 2025  
+📚 **Ciência da Computação (5º Semestre)**
+Universidade de Fortaleza - UNIFOR · Fortaleza - 2025
 
-📚 **Computer Science (5th Semester)**  
+📚 **Computer Science (5th Semester)**
 University of Fortaleza - UNIFOR · Brazil - 2025
 
-- Experiência com Python, Java, Spring Boot, Angular  
-- Experience with Python, Java, Spring Boot, Angular  
-- Paradigmas: OO, Aspectos, SOLID, Clean Code  
-- Paradigms: OOP, AOP, SOLID, Clean Code  
-- Análise de Dados com R, Pandas, Matplotlib, Seaborn  
-- Data Analysis with R, Pandas, Matplotlib, Seaborn  
-- Banco de Dados: MySQL, SQL Server  
-- Databases: MySQL, SQL Server  
-- Documentação com LaTeX (Overleaf)  
-- Documentation with LaTeX (Overleaf)  
+- Experiência com Python, Java, Spring Boot, Angular, React
+- Experience with Python, Java, Spring Boot, Angular, React
+- Paradigmas: OO, Aspectos, SOLID, Clean Code
+- Paradigms: OOP, AOP, SOLID, Clean Code
+- Análise de Dados com R, Pandas, Matplotlib, Seaborn
+- Data Analysis with R, Pandas, Matplotlib, Seaborn
+- Banco de Dados: PostgreSQL, MySQL, SQL Server
+- Databases: PostgreSQL, MySQL, SQL Server
+- Machine Learning e IA com PyTorch, TensorFlow, Scikit-Learn
+- Machine Learning and AI with PyTorch, TensorFlow, Scikit-Learn
+- Documentação com LaTeX (Overleaf), Swagger
+- Documentation with LaTeX (Overleaf), Swagger
 
 ---
 
 ### 🧠 Perfil Profissional | Professional Profile
 
-Sou autodidata, curioso e guiado por dados. Atuo com análise descritiva, visualização de dados e automação de insights. Tenho experiência prática em projetos acadêmicos e institucionais nos laboratórios **LAPIN** e **LARI**, desenvolvendo soluções tecnológicas baseadas em boas práticas de programação.
+Sou autodidata, curioso e guiado por dados. Atuo com análise descritiva, visualização de dados, desenvolvimento de sistemas escaláveis e modelos de Machine Learning. Tenho experiência prática em projetos acadêmicos e comerciais, incluindo trabalho nos laboratórios **LAPIN** e **LARI**, e atualmente na **Doctor Home**, desenvolvendo soluções tecnológicas baseadas em boas práticas de engenharia de software.
 
-I’m self-taught, curious, and data-driven. I work with descriptive analysis, data visualization, and insight automation. I have hands-on experience in academic and institutional projects at **LAPIN** and **LARI** labs, developing technological solutions based on software engineering best practices.
+I'm self-taught, curious, and data-driven. I work with descriptive analysis, data visualization, scalable systems development, and Machine Learning models. I have hands-on experience in academic and commercial projects, including work at **LAPIN** and **LARI** labs, and currently at **Doctor Home**, developing technological solutions based on software engineering best practices.
 
-- Inglês nível C1  
-- English Level: C1  
-- Trabalho em equipe, proatividade e adaptabilidade  
-- Teamwork, proactivity, and adaptability  
-- Conhecimentos em finanças e investimentos  
-- Knowledge in finance and investment analysis  
+- Inglês nível C1
+- English Level: C1
+- Trabalho em equipe, proatividade e adaptabilidade
+- Teamwork, proactivity, and adaptability
+- Conhecimentos em finanças e investimentos
+- Knowledge in finance and investment analysis
 
 ---
 
@@ -63,11 +65,14 @@ I’m self-taught, curious, and data-driven. I work with descriptive analysis, d
 <img align="left" alt="Raylib" width="30px" src="https://www.raylibtech.com/images/raylibtech_main.png"/>
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Kotlin" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
 <img align="left" alt="Spring Boot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 <img align="left" alt="R" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
 <img align="left" alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<img align="left" alt="RabbitMQ" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg"/>
 <img align="left" alt="Maven" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"/>
 <img align="left" alt="Gradle" width="30px" src="https://static-00.iconduck.com/assets.00/gradle-icon-2048x1504-ro73tce1.png"/>
 <br /><br />
@@ -90,6 +95,7 @@ I’m self-taught, curious, and data-driven. I work with descriptive analysis, d
 <img align="left" alt="Hugging Face" width="30px" src="https://huggingface.co/front/assets/huggingface_logo.svg"/>
 <img align="left" alt="LangChain" width="30px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png"/>
 <img align="left" alt="N8N" width="30px" src="https://cp.beget.com/shared/EXlbmo7zStLYxXYd6yFrM714qZj8LMkI/logo_n8n2x.png"/>
+<img align="left" alt="Ollama" width="30px" src="https://avatars.githubusercontent.com/u/151674099?s=280&v=4"/>
 <br /><br />
 
 #### 📈 Visualização e Dashboard | Visualization & Dashboards
@@ -128,6 +134,8 @@ I’m self-taught, curious, and data-driven. I work with descriptive analysis, d
 <img align="left" alt="SSH" width="30px" src="https://cdn-icons-png.flaticon.com/512/5136/5136897.png"/>
 <img align="left" alt="AWS" width="30px" src="https://assets.dio.me/wba01Z0cytG04zMjQkEyXJ8x5tSXupBHthd1knhQbJE/f:webp/q:80/L2FydGljbGVzL2NvdmVyLzQ0NzZlZjIxLWI1MTEtNGQ0MC1iN2NjLTFlMTM4Mzc2MDYwMC5wbmc"/>
 <img align="left" alt="Kali Linux" width="30px" src="https://static-00.iconduck.com/assets.00/distributor-logo-kali-linux-icon-2048x2005-dki611fk.png"/>
+<img align="left" alt="GitHub Actions" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="Swagger" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg"/>
 <br /><br />
 
 #### 🎮 Game Dev
@@ -149,50 +157,51 @@ I’m self-taught, curious, and data-driven. I work with descriptive analysis, d
 
 ### 🧪 Experiência | Experience
 
-**📊 Projetos Acadêmicos — UNIFOR (2022–Presente)**  
-**📊 Academic Projects — UNIFOR (2022–Present)**  
-- Desenvolvimento com Python, Java, Angular  
-- Development with Python, Java, Angular  
-- Visualização e análise de dados  
-- Data visualization and analysis  
-- SQL e modelagem de dados  
-- SQL and data modeling  
-- Documentação com LaTeX  
-- Technical writing with LaTeX  
+**🩺 Engenheiro de Software — Doctor Home, Fortaleza (2025–Presente)**
+**🩺 Software Engineer — Doctor Home, Fortaleza (2025–Present)**
+- Desenvolvimento de serviços médicos em larga escala com SpringBoot, Spring Security, React, PostgreSQL, Docker, RabbitMQ, GitHub CI/CD
+- Large-scale medical services development with SpringBoot, Spring Security, React, PostgreSQL, Docker, RabbitMQ, GitHub CI/CD
+- Modelagem, treinamento e aplicação de modelos de Machine Learning e IA voltados para área médica usando N8N, Ollama, Burn, PyTorch, TensorFlow, Scikit-Learn, Plotly/Dash, FastAPI, Skrobot
+- Machine Learning and AI model design, training, and deployment for medical applications using N8N, Ollama, Burn, PyTorch, TensorFlow, Scikit-Learn, Plotly/Dash, FastAPI, Skrobot
+- Criação de relatórios e documentação técnica usando LaTeX, Swagger e Shotgun
+- Technical reports and documentation using LaTeX, Swagger, and Shotgun
+- Design de UIs e protótipos
+- UI Design and prototyping
+- Data scraping e automação
+- Data scraping and automation
 
-**🧬 Projetos no LAPIN & LARI — Fortaleza (2023–2024)**  
-**🧬 Projects at LAPIN & LARI Labs (2023–2024)**  
-- Aplicações com ciência de dados  
-- Data science applications  
-- Desenvolvimento fullstack  
-- Fullstack development  
-- Versionamento e integração contínua  
-- Versioning and CI/CD practices  
-- Dashboards e visualização interativa  
-- Dashboards and interactive data viz  
+**📊 Projetos Acadêmicos — UNIFOR (2022–Presente)**
+**📊 Academic Projects — UNIFOR (2022–Present)**
+- Desenvolvimento com Python, Java, Angular e React
+- Development with Python, Java, Angular, and React
+- Visualização e análise de dados com R, Pandas, Matplotlib, Seaborn
+- Data visualization and analysis with R, Pandas, Matplotlib, Seaborn
+- SQL e modelagem de dados (PostgreSQL, MySQL)
+- SQL and data modeling (PostgreSQL, MySQL)
+- Documentação técnica com LaTeX
+- Technical writing with LaTeX
+- Implementação de boas práticas SOLID e Clean Code
+- Implementation of SOLID and Clean Code best practices
 
-** 🩺 Trabalhou na Doctor Home — Fortaleza (2023–Presente)**  
-** 🩺 Worked at Doctor Home (2023–Present)**  
-- Aplicações com ciência de dados  
-- Data science applications  
-- Desenvolvimento fullstack  
-- Fullstack development  
-- Versionamento e integração contínua  
-- Versioning and CI/CD practices  
-- Dashboards e visualização interativa  
-- Dashboards and interactive data viz
-- Design de UIs e Protótipos
-- UI Design and Prototyping
-- Data Scrapping
-- Desenvolvimento de Modelos de Machine Learning
-- Machine Learning Models Development
+**🧬 Projetos no LAPIN & LARI — Fortaleza (2023–2024)**
+**🧬 Projects at LAPIN & LARI Labs (2023–2024)**
+- Aplicações com ciência de dados e análise descritiva
+- Data science applications and descriptive analysis
+- Desenvolvimento fullstack e pesquisa aplicada
+- Fullstack development and applied research
+- Versionamento e integração contínua com Git
+- Versioning and CI/CD practices with Git
+- Dashboards e visualização interativa de dados
+- Dashboards and interactive data visualization
+- Desenvolvimento de soluções tecnológicas para robótica
+- Technological solutions development for robotics
 
 ---
 
 ### 🌐 Links
 
-- 💼 GitHub: [github.com/Nandobez](https://github.com/Nandobez)  
-- 📧 Email: fernando.devsolutions13@gmail.com  
+- 💼 GitHub: [github.com/Nandobez](https://github.com/Nandobez)
+- 📧 Email: fernando.devsolutions13@gmail.com
 
 ---
 
@@ -200,14 +209,14 @@ I’m self-taught, curious, and data-driven. I work with descriptive analysis, d
 
 <br/>
 
-<a href="https://github.com/Ianalas" title="Estatísticas Nandobez">
+<a href="https://github.com/Nandobez" title="Estatísticas Nandobez">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nandobez&theme=dark&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandobez&layout=compact&langs_count=16&theme=dark&show_icons=true" />
 </a>
 
 ---
 
-> 🇧🇷 “Transformar curiosidade em conhecimento, e conhecimento em soluções.”  
+> 🇧🇷 "Transformar curiosidade em conhecimento, e conhecimento em soluções."
 > 🇺🇸 "Turning curiosity into knowledge, and knowledge into solutions."
 
 🦆👍 QUACK!
