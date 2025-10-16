@@ -1,7 +1,14 @@
 <!-- Logo pessoal -->
 <p align="center">
-  <img src="./DuckLogo.png" width="200" alt="Logo Fernando Bezerra" />
+  <a href="https://nandobez.github.io/duckos/">
+    <img src="./DuckLogo.png" width="200" alt="Logo Fernando Bezerra" />
+  </a>
 </p>
+
+<h1 align="center">For my Resumé, Click on the Duck Logo!</h1>
+<h1 align="center">Para o meu Currículo, Clique no Logo de Pato!</h1>
+
+---
 
 # 🧠 Fernando Bezerra (Nandobez)
 
