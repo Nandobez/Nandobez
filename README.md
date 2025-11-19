@@ -132,7 +132,7 @@ I'm self-taught, curious, and data-driven. I work with descriptive analysis, dat
 <img align="left" alt="Arduino" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
 <img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 <img align="left" alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
-<img align="left" alt="FastAPI" width="30px" src="https://svgmix.com/uploads/skillicons/151df7-fastapi.svg"/>
+<img align="left" alt="FastAPI" width="30px" src="https://github.com/user-attachments/assets/06eb4ba3-e83e-43ff-a2e3-a31f50fbd461"/>
 <img align="left" alt="Flask" width="30px" src="https://img.icons8.com/nolan/512/flask.png"/>
 <img align="left" alt="Vim" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/>
 <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
