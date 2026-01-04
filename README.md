@@ -216,9 +216,9 @@ I'm self-taught, curious, and data-driven. I work with descriptive analysis, dat
 
 <br/>
 
-<a href="https://github.com/Nandobez" title="Estatísticas Nandobez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nandobez&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandobez&layout=compact&langs_count=16&theme=dark&show_icons=true" />
+<a href="https://github.com/Nandobez">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nandobez&theme=dark&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nandobez&layout=compact&langs_count=16&theme=dark" />
 </a>
 
 ---
