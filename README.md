@@ -68,7 +68,7 @@ I'm self-taught, curious, and data-driven. I work with descriptive analysis, dat
 <img align="left" alt="OpenCV" width="30px" src="https://img.icons8.com/?size=512&id=bpip0gGiBLT1&format=png"/>
 <img align="left" alt="libcurl" width="30px" src="https://curl.se/logo/curl-symbol-transparent.png"/>
 <img align="left" alt="SFML" width="30px" src="https://www.sfml-dev.org/download/goodies/sfml-icon-big.png"/>
-<img align="left" alt="OpenGL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Opengl-logo.svg/2560px-Opengl-logo.svg.png"/>
+<img align="left" alt="OpenGL" width="30px" src="https://www.iconshock.com/image/Stroke/3d_graphics/opengl"/>
 <img align="left" alt="Raylib" width="30px" src="https://www.raylibtech.com/images/raylibtech_main.png"/>
 <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -89,7 +89,7 @@ I'm self-taught, curious, and data-driven. I work with descriptive analysis, dat
 <img align="left" alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
 <img align="left" alt="NumPy" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
 <img align="left" alt="SciPy" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg"/>
-<img align="left" alt="Scikit-learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"/>
+<img align="left" alt="Scikit-learn" width="30px" src="https://github.com/user-attachments/assets/a4ad3130-bac0-4376-9b27-8d5248fa411f"/>
 <img align="left" alt="Matplotlib" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/>
 <img align="left" alt="BeautifulSoup" width="30px" src="https://www.kindpng.com/picc/m/467-4674941_beautifulsoup-python-svg-hd-png-download.png"/>
 <br /><br />
@@ -116,7 +116,7 @@ I'm self-taught, curious, and data-driven. I work with descriptive analysis, dat
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="SASS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-<img align="left" alt="Tailwind" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png"/>
+<img align="left" alt="Tailwind" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"/>
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
@@ -154,7 +154,7 @@ I'm self-taught, curious, and data-driven. I work with descriptive analysis, dat
 #### 🎨 Design e Documentação | Design & Docs
 
 <img align="left" alt="Illustrator" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/>
-<img align="left" alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png"/>
+<img align="left" alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png"/>
 <img align="left" alt="Figma" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" alt="LaTeX" width="30px" src="https://plugins.jetbrains.com/files/18580/161514/icon/default.svg"/>
 <img align="left" alt="Office" width="30px" src="https://m.media-amazon.com/images/I/71UiUaUzdtL.png"/>
