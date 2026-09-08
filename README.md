@@ -217,8 +217,8 @@ I'm self-taught, curious, and data-driven. I work with descriptive analysis, dat
 <br/>
 
 <a href="https://github.com/Nandobez">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nandobez&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandobez&layout=compact&langs_count=16&theme=dark" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Nandobez&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nandobez&layout=compact&langs_count=16&theme=dark" />
 </a>
 
 ---
